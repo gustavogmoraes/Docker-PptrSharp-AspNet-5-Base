@@ -1,1 +1,1 @@
-Mega.PuppeteerSharp-AspNetcore-5-base
+PuppeteerSharp-AspNetcore-5-base
